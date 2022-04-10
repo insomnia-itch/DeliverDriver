@@ -1125,6 +1125,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   destroySpeed: 0.5
+  hasPackageColor:
+    serializedVersion: 2
+    rgba: 4278255360
+  noPackageColor:
+    serializedVersion: 2
+    rgba: 4294967295
 --- !u!1 &715114981
 GameObject:
   m_ObjectHideFlags: 0
